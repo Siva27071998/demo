@@ -302,6 +302,7 @@ button {
     height: 100%;
     width: 0;
     position: fixed;
+	
     z-index: 1;
     top: 0;
     left: 0;
@@ -315,13 +316,14 @@ button {
     padding: 8px 8px 8px 32px;
     text-decoration: none;
     font-size: 20px;
-    color: #ffffff;
+   color:red;
     display: block;
     transition: 0.3s;
+
 }
 
 .sidenav a:hover {
-    color: #f26522;
+    color: red;
 }
 
 .sidenav .closebtn {
@@ -335,9 +337,12 @@ button {
 @media screen and (max-height: 450px) {
     .sidenav {
         padding-top: 15px;
+		color:red; 
     }
     .sidenav a {
         font-size: 18px;
+		color:red;
+
     }
 }
 
@@ -345,6 +350,7 @@ button {
     cursor: pointer;
     color: #ffffff;
     order: 2;
+	font-size:33px;
 }
 
 .header_box {
@@ -365,13 +371,13 @@ button {
 }
 
 .btn-secondary {
-    color: #fff;
+   color:red;
     background-color: #30302e;
     border-color: #30302e;
 }
 
 .btn-secondary:hover {
-    color: #fff;
+  color:red;
     background-color: #30302e;
     border-color: #30302e;
 }
@@ -445,6 +451,7 @@ button {
 
 .padding_10 {
     padding-left: 10px;
+	font-size: 32px;
 }
 
 
@@ -554,6 +561,8 @@ a:hover {
     width: 100%;
     float: left;
     padding-bottom: 150px;
+	   padding-top: 65px;
+
 }
 
 .fashion_taital {
@@ -688,12 +697,12 @@ a:hover {
 
 #electronic_main_slider a.carousel-control-next {
     right: 615px;
-    top: 105%;
+    top: -4%;
 }
 
 #electronic_main_slider a.carousel-control-prev {
     left: 615px;
-    top: 105%;
+    top: -4%;
 }
 
 #electronic_main_slider .carousel-control-next,
@@ -952,6 +961,7 @@ input.mail_bt::placeholder {
 .margin_top90 {
     margin-top: 90px;
 }
+.ma{display:inline-block;  font:normal normal normal 14px/1 FontAwesome; font-size: 32px; text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}
 
 
 /* copyright section end */
