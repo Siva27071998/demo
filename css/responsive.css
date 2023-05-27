@@ -148,12 +148,12 @@
         min-height: 280px;
     }
     #electronic_main_slider a.carousel-control-next {
-        right: 40px;
-        top: 110%;
+        right: 15px;
+        top: -2%;
     }
     #electronic_main_slider a.carousel-control-prev {
-        left: 40px;
-        top: 110%;
+        left: 15px;
+        top: -2%;
     }
     .jewellery_img {
         margin: 20px 0px;
@@ -199,12 +199,12 @@
         min-height: 190px;
     }
     #electronic_main_slider a.carousel-control-next {
-        right: 40px;
-        top: 110%;
+        right: 15px;
+        top: -2%;
     }
     #electronic_main_slider a.carousel-control-prev {
-        left: 40px;
-        top: 110%;
+        left: 15px;
+        top: -2%;
     }
     .jewellery_img {
         margin: 20px 0px;
@@ -367,6 +367,7 @@
     .toggle_icon {
         cursor: pointer;
         order: 2;
+		font-size: 22px;
     }
     .main {
         margin: 0px 0px 0px 0px;
@@ -445,11 +446,11 @@
     }
     #electronic_main_slider a.carousel-control-prev {
         left: 15px;
-        top: 101%;
+        top: -2%;
     }
     #electronic_main_slider a.carousel-control-next {
         right: 15px;
-        top: 101%;
+        top: -2%;
     }
     .input_bt {
         width: 100%;

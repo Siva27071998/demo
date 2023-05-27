@@ -350,7 +350,7 @@ button {
     cursor: pointer;
     color: #ffffff;
     order: 2;
-	font-size:33px;
+	font-size:22px;
 }
 
 .header_box {
@@ -451,7 +451,7 @@ button {
 
 .padding_10 {
     padding-left: 10px;
-	font-size: 32px;
+	font-size: 17px;
 }
 
 
@@ -961,7 +961,7 @@ input.mail_bt::placeholder {
 .margin_top90 {
     margin-top: 90px;
 }
-.ma{display:inline-block;  font:normal normal normal 14px/1 FontAwesome; font-size: 32px; text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}
+.ma{display:inline-block;  font:normal normal normal 14px/1 FontAwesome; font-size: 22px; text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}
 
 
 /* copyright section end */
